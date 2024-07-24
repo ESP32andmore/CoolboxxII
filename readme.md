@@ -75,7 +75,7 @@ A 3D printed enclosure is also available: https://www.tindie.com/products/34657/
 
 ## Connector to GPIO Mapping.
 
-<img src="work/Board1_bot_r.jpg" width=400>
+<img src="work/Board1_pinout.JPG" width=400>
 
 ### Reset Header 
 | Connector | PIN1 | PIN2 |
