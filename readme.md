@@ -59,7 +59,7 @@ A 3D printed enclosure is also available: https://www.tindie.com/products/34657/
 
 * Open a HiveOS shell and from the /home/user directory either download the program_coolboxx.sh script from the Github repository or run the following commands:
 
-	wget https://github.com/fpovoski/CoolboxxII/raw/main/program_coolboxx.sh
+	wget https://github.com/ESP32andmore/CoolboxxII/raw/main/program_coolboxx.sh
  
 	chmod +x ./program_coolboxx.sh
  
@@ -67,7 +67,7 @@ A 3D printed enclosure is also available: https://www.tindie.com/products/34657/
 
 * MMPOS support please run:
 
-   	wget https://github.com/fpovoski/CoolboxxII/raw/main/mmpos_agent_update.sh
+   	wget https://github.com/ESP32andmore/CoolboxxII/raw/main/mmpos_agent_update.sh
 
   	chmod +x ./mmpos_agent_update.sh
 
